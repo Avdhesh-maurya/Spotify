@@ -20,4 +20,11 @@ Open the Spotify clone in your browser to explore the user interface. You can vi
 
 # Live Demo
 
+[Spotify-Clone-Live](https://avdhesh-maurya.github.io/Spotify/)
+
+# Screenshot
+
+![image](https://github.com/user-attachments/assets/77e96995-2d2b-4ee1-802b-93f34f655b7e)
+
+
 
